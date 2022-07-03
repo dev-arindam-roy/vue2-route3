@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvuejs2_router"]=self["webpackChunkvuejs2_router"]||[]).push([[719],{6035:function(t,u,e){e.r(u),e.d(u,{default:function(){return c}});var r=function(){var t=this;t._self._c;return t._m(0)},n=[function(){var t=this,u=t._self._c;return u("div",{staticClass:"routeimage"},[u("h1",[t._v("My Dev Route Coding...")]),u("img",{attrs:{src:e(8067)}})])}],s=e(1001),i={},o=(0,s.Z)(i,r,n,!1,null,null,null),c=o.exports},8067:function(t,u,e){t.exports=e.p+"img/route.51f452d8.png"}}]);
+//# sourceMappingURL=routecode.9b19d4a6.js.map
