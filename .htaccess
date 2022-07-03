@@ -1,8 +1,8 @@
 <IfModule mod_rewrite.c>
     RewriteEngine On
-    RewriteBase /vue2-route3
-    RewriteRule ^vue2-route3/index\.html$ - [L]
+    RewriteBase /dev-arindam-roy/vue2-route3/
+    RewriteRule ^dev-arindam-roy/vue2-route3/index\.html$ - [L]
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule . /vue2-route3/index.html [L]
+    RewriteRule . /dev-arindam-roy/vue2-route3/index.html [L]
 </IfModule>
